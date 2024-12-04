@@ -1,17 +1,19 @@
-#modified from plewis.github.io
+#modified from plewis.github.io to darsenault.github.io
+#modified from the latter.
 
-title: test home page
-email: danielle.arsenault@uconn.edu
+title: Sophia Gosselin  
+email: sophiagosselin9@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  testing site build through github.io
+  A personal page and repository
 baseurl: "" # the subpath of your site, e.g. /blog
 
 header_pages:
-   - header1.md
-   - header2.md
+   - about.md
+   - research.md
+   - personal.md
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  daniellearsenault
+github_username:  sophiagosselin
 
 # Build settings
 markdown: kramdown

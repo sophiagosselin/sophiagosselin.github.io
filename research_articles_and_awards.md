@@ -1,10 +1,9 @@
 ---
 layout: page
-title: header1 test md page
-permalink: /header1/
+title: Research
+permalink: /research_articles_and_awards/
 ---
 
-text
 ## header
 
 [test link](https://github.com/daniellearsenault/daniellearsenault.github.io/blob/main/header2.md?plain=1)
