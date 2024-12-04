@@ -1,0 +1,36 @@
+#modified from plewis.github.io
+
+title: test home page
+email: danielle.arsenault@uconn.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  testing site build through github.io
+baseurl: "" # the subpath of your site, e.g. /blog
+
+header_pages:
+   - header1.md
+   - header2.md
+
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  daniellearsenault
+
+# Build settings
+markdown: kramdown
+theme: minima
+#theme: jekyll-theme-tactile
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jemoji
+
+  
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
