@@ -7,10 +7,6 @@ layout: home
 
 #### Hello and welcome! 
 
-<img style="float: right; width:200px" src="images\headshot.jpg"/>
-
-<p style="float: left;"> My name is Sophia Gosselin, and I am a bioinformatician, evolutionary biologist, and weird snail person all rolled up into one.<br>If you wish to know anything about me, see my <a href="about.md">about me page</a>. Otherwise all of my research interests are located <a href="research.md">here</a>.<br>Thank you for visiting!</p>
-
 <html>
   <head>
     <title>Home Page</title>
@@ -24,10 +20,10 @@ layout: home
   img {
     max-width: 25%;
     max-height:15%;
-    float: left;
+    float: right;
   }
   .text {
-    font-size: 20px;
+    font-size: 12px;
     padding-left: 20px;
     padding-top: 20%;
     float: left;
