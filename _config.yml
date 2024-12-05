@@ -5,7 +5,7 @@ title: Sophia Gosselin
 email: sophiagosselin9@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal page and repository
-baseurl: "/sophiagosselin.github.page" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 header_pages:
    - about.md
@@ -38,3 +38,5 @@ plugins:
 
 #if you ever want to add color to your text, you can use the following: 
 #<span style="color:blue">some *blue* text</span>.
+
+#modified from plewis.github.ios
