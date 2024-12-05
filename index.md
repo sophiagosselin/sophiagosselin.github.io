@@ -5,8 +5,6 @@
 layout: home
 ---
 
-#### Hello and welcome! 
-
 <html>
   <head>
     <title>Home Page</title>
@@ -20,13 +18,13 @@ layout: home
   img {
     max-width: 100%;
     max-height:100%;
-    float: right;
+    float: left;
   }
   .text {
     font-size: 12px;
-    padding-left: 20px;
+    padding-right: 20px;
     padding-top: 20%;
-    float: left;
+    float: right;
   }
   </style>
   <body>
