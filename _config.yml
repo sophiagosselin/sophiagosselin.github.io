@@ -5,7 +5,7 @@ title: Sophia Gosselin
 email: sophiagosselin9@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal page and repository
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/sophiagosselin.github.page" # the subpath of your site, e.g. /blog
 
 header_pages:
    - about.md
