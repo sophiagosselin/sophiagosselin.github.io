@@ -7,7 +7,7 @@ layout: home
 
 #### Hello and welcome! 
 
-<img style="float: right" src="images\headshot.jpg" />
+<img style="float: right" style="width:200px;" src="images\headshot.jpg"/>
 
 My name is Sophia Gosselin, and I am a bioinformatician, evolutionary biologist, and weird snail person all rolled up into one. 
 
