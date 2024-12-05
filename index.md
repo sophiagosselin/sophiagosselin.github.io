@@ -9,7 +9,7 @@ layout: home
 
 My name is Sophia Gosselin, and I am a bioinformatician, evolutionary biologist, and weird snail person all rolled up into one. 
 
-If you wish to know anything about me, see my [about me page](/about/). Otherwise all of my research interests are located [here](/research/).
+If you wish to know anything about me, see my [about me page](/about.md). Otherwise all of my research interests are located [here](/research.md).
 
 Thank you for visiting!
 

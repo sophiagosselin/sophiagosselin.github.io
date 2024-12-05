@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research Publications
-permalink: /research_articles/
 ---
 
 ### Publications at UConn (2017 - 2025)

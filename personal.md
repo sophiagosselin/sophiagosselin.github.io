@@ -1,7 +1,6 @@
 ---
 layout: page
 title: header2 test md page
-permalink: /header2/
 ---
 
 

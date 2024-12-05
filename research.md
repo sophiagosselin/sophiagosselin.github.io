@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-permalink: /research/
 ---
 
 ### Research Interests
@@ -19,7 +18,7 @@ My thesis work on the spread of inteins in actinobacteriophages led me to my cur
 However, moving forward, I am open to investigating the evolution of other genes, genomes, and systems. There is, after all, a never ending supply of fascinating evolutionary questions within the field of genetics.
 
 ### Publications List
-I try to keep an up-to-date list [here](/research_articles/), but links to other databases are listed below:
+I try to keep an up-to-date list [here](research_articles.md), but links to other databases are listed below:
 - [Google Scholar](https://scholar.google.com/citations?user=Q5N9CqgAAAAJ&hl=en)
 - [ORCiD](https://orcid.org/0000-0001-8872-7850)
 - [SciProfiles](https://sciprofiles.com/profile/2673745)
