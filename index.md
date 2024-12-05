@@ -13,5 +13,5 @@ If you wish to know anything about me, see my [about me page](/about.md). Otherw
 
 Thank you for visiting!
 
-![](\images\headshot.jpg)
+<img src="images\headshot.jpg" alt="drawing" style="width:200px;"/>
 
