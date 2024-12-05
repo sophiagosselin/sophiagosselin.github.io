@@ -6,6 +6,12 @@ layout: home
 permalink: /home/
 ---
 
-<img style="float: right;" src="images\headshot.jpg">
+#### Hello and welcome! 
 
-<p style="float: left;"> For more about my research interests, publications, or other tidbits, please use the page links above! </p>
+My name is Sophia Gosselin, and I am a bioinformatician, evolutionary biologist, and weird snail person all rolled up into one. 
+
+If you wish to know anything about me, see my [about me page](/about/). Otherwise all of my research interests are located [here](/research/).
+
+Thank you for visiting!
+
+![](\images\headhsot.jpg) 

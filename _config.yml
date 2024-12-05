@@ -10,7 +10,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 header_pages:
    - about.md
    - research.md
-   #- personal.md
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sophiagosselin
