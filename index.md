@@ -18,8 +18,8 @@ layout: home
     justify-content: center;
   }
   img {
-    max-width: 25%;
-    max-height:15%;
+    max-width: 100%;
+    max-height:100%;
     float: right;
   }
   .text {
@@ -35,7 +35,7 @@ layout: home
         <img src="images/headshot.jpg">
       </div>
       <div class="text">
-        <h1>My name is Sophia Gosselin, and I am a bioinformatician, evolutionary biologist, and weird snail person all rolled up into one.<br>If you wish to know anything about me, see my <a href="about.md">about me page</a>. Otherwise all of my research interests are located <a href="research.md">here</a>.<br>Thank you for visiting!</h1>
+        <h1>My name is Sophia Gosselin, and I am a bioinformatician, evolutionary biologist, and weird snail person all rolled up into one.<br><br>If you wish to know anything about me, see my <a href="about.md">about me page</a>. Otherwise all of my research interests are located <a href="research.md">here</a>.<br><br>Thank you for visiting!</h1>
       </div>
     </div>
   </body>
