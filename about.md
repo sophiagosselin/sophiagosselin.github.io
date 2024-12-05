@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Sophia Gosselin (she/her/hers) and I am currently a PhD student at the University of Connecticut. I work within the [Gogarten lab](https://j.p.gogarten.uconn.edu/) studying the evolution of mobile genetic elements, viruses, and bacteria. If you are interested in my previous publications, research interests, or anything else science related, then you can find more on my [research page](/research/).
 
-![](\images\non_canonical_inteins.png "Non-canonical Intein Architectures - Figure from a recent manuscript")
+![](\images\non_canonical_inteins.jpg "Non-canonical Intein Architectures - Figure from a recent manuscript")
 
 From a young age I have always been interested in biology - I have spent innumerable afternoons as a child investigating local streams and swamps - and this has carried into aulthood. I maintain several small aquariums, and reguarly pull out my personal microscope to investigate ever-growing mircoscopic biodiversity therein.
 

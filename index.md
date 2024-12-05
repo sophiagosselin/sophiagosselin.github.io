@@ -14,4 +14,5 @@ If you wish to know anything about me, see my [about me page](/about/). Otherwis
 
 Thank you for visiting!
 
-![](\images\headhsot.jpg) 
+![](\images\headshot.jpg)
+
