@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 header_pages:
    - about.md
    - research.md
-   - personal.md
+   #- personal.md
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sophiagosselin
@@ -36,3 +36,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#if you ever want to add color to your text, you can use the following: 
+#<span style="color:blue">some *blue* text</span>.
